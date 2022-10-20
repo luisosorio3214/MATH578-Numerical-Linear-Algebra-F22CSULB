@@ -72,7 +72,9 @@ The following listing links to the notebooks in this repository, rendered throug
 
 ### 6. [Predicting Health Outcomes with Linear Regressions](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec06_LinRegrApp.ipynb)(*[Lecture16 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/Ee1TX48j-XRAkEdr3nPQZWIBaXgqtr6mjGYz_s-JaVdJdw?e=mJpaA4)*)
 
-### 7. How to Implement Linear Regression
+### 7. [How to Implement Linear Regression](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec07_Implement_LR.ipynb)
+* [Lecture17 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/ET0ljBUwbF1PoaApPryIbekBaRxlwl6LRdKs_SiS5GbPBA?e=n8tm3J)
+* [Notes on different methods for solving Least Squares problem.](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/units/10458538)
 
 ### 8. PageRank with Eigen Decompositions 
 
