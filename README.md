@@ -86,3 +86,5 @@ The following listing links to the notebooks in this repository, rendered throug
 * [Arnoldi Iteration](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Arnoldi-Iteration)
 
 ### 9. Implementing QR Factorization 
+
+### 10. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/ERyZZD7OfWJOqkrPR7KagsgB6FOLMwiMk3YpKrbLu4xHJA?e=ZnaIda)
