@@ -77,6 +77,12 @@ The following listing links to the notebooks in this repository, rendered throug
 * [Notes on different methods for solving Least Squares problem.](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/units/10458538)
 * [Lecture18 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EY0GKAMcU01CuXJdHHEhz24Btjqhzeyivk-hLQ4dJG7BwA?e=MRV5wD)
 
-### 8. PageRank with Eigen Decompositions 
+### 8. [PageRank with Eigen Decompositions](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb) 
+* [SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Motivation)
+* [DBpedia Dataset](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#DBpedia)
+* [Power Method](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Power-method)
+* [QR Algorithm](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#QR-Algorithm)
+* [Two-phase approach to finding eigenvalues](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#A-Two-Phase-Approach)
+* [Arnoldi Iteration](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Arnoldi-Iteration)
 
 ### 9. Implementing QR Factorization 

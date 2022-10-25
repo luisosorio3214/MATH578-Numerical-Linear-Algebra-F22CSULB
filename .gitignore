@@ -130,3 +130,7 @@ dmypy.json
 *.*~
 MATH578S22Assignment*
 Lectures/__temp__.mp4
+Lectures/data/dbpedia/index_map.pkl
+Lectures/data/dbpedia/page_links_en.nt.bz2
+Lectures/data/dbpedia/redirects_en.nt.bz2
+Lectures/data/dbpedia/X.pkl
