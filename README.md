@@ -77,7 +77,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * [Notes on different methods for solving Least Squares problem.](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/units/10458538)
 * [Lecture18 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EY0GKAMcU01CuXJdHHEhz24Btjqhzeyivk-hLQ4dJG7BwA?e=MRV5wD)
 
-### 8. [PageRank with Eigen Decompositions](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb) (*[Lecture19 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EUAs9SeIpiRAg5SJlAxQbFABJfakDSYLHK-86liuTbv5tg?e=rnHnbB) on 8.1 and 8.2*)
+### 8. [PageRank with Eigen Decompositions](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb) (*[Lecture19 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EUAs9SeIpiRAg5SJlAxQbFABJfakDSYLHK-86liuTbv5tg?e=rnHnbB) on 8.1 and 8.2, [Lecture20 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EUiyDXXsILJArfrcUnwhlgMBiDJsr34j2Eav0-qTTG5zqA?e=J2hDiY) on 8.2*)
 * 8.1 [SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Motivation)
 * 8.2 [DBpedia Dataset](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#DBpedia)
 * 8.3 [Power Method](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Power-method)
