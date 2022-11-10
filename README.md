@@ -85,6 +85,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 8.5 [Two-phase approach to finding eigenvalues](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#A-Two-Phase-Approach)
 * 8.6 [Arnoldi Iteration](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec08_PageRank.ipynb#Arnoldi-Iteration)
 * [Lecture notes on Arnoldi, QR, Hessenberg](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/units/10458538)
+* **[Assignment #6](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment06.ipynb)**  *Due Dec 1, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
 ### 9. Implementing QR Factorization 
 
