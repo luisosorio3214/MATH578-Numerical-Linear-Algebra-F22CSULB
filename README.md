@@ -90,4 +90,4 @@ The following listing links to the notebooks in this repository, rendered throug
 ### 9. [Implementing QR Factorization](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec09_Implement_QR.ipynb)(*[Lecture25 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/ESg-fs0XYNpCkhjfcqcaXfEB5UzLfFczBgcJc3tglyTPaw?e=80bSp6)*)
 * [Lecture notes on QR factorization](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/units/10458538)
 
-### 10. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/ERyZZD7OfWJOqkrPR7KagsgB6FOLMwiMk3YpKrbLu4xHJA?e=ZnaIda)
+### 10. [Final project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/ERyZZD7OfWJOqkrPR7KagsgB6FOLMwiMk3YpKrbLu4xHJA?e=ZnaIda)
